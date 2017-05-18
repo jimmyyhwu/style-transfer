@@ -6,15 +6,13 @@ This is a [TensorFlow](https://github.com/tensorflow/tensorflow) implementation 
 Basic Style Transfer
 --------------
 
-<img src="examples/content_fullres.jpg" height="240px">
-<img src="examples/style_fullres.jpg" height="240px">
+<img src="examples/content_fullres.jpg" height="240px"> <img src="examples/style_fullres.jpg" height="240px">
 <img src="examples/output_fullres.jpg" width="724px">
 
 Style Transfer with Color Preservation
 --------------------------------------
 
-<img src="examples/content_fullres.jpg" height="240px">
-<img src="examples/style_fullres.jpg" height="240px">
+<img src="examples/content_fullres.jpg" height="240px"> <img src="examples/style_fullres.jpg" height="240px">
 <img src="examples/output_color_fullres.jpg" width="724px">
 
 Usage
